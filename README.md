@@ -1,4 +1,4 @@
-# WinterSchool2022
+# NFDI4Biodiversity & GfÖ Winter School on Data Management in Ecology and Environmental Science 2022
 
 NFDI4Biodiversity and GfÖ organized a joined Winter School in December 2022. In this one-week course, the participants were introduced to research data management across the data life cycle. 
 
