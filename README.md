@@ -27,15 +27,15 @@ In practical lessons, participants were introduced to Jupyter Notebook as a powe
 
 ## Lecture recordings
 
-Lecture recordings were published on [YouTube](https://www.youtube.com/playlist?list=PL06Unzn1hDrhZ4mfsdfeypJajuGsuzdfm).
+Lecture recordings are available on [YouTube](https://www.youtube.com/playlist?list=PL06Unzn1hDrhZ4mfsdfeypJajuGsuzdfm).
 
 ## Lecture slides
 
-Lectuer slides were published on [Zenodo](https://zenodo.org/communities/nfdi4biodiv/search?page=1&size=20&q=title:(%22Legal%22)%20OR%20(keywords:(%22winterschool2022%22%20OR%20%22WinterSchool2022%22%20OR%20%22Winterschool2022%22)%20AND%20(%22nfdi4biodiversity%22%20OR%20%22NFDI4Biodiversity%22))).
+Lecture slides are available on [Zenodo](https://zenodo.org/communities/nfdi4biodiv/search?page=1&size=20&q=title:(%22Legal%22)%20OR%20(keywords:(%22winterschool2022%22%20OR%20%22WinterSchool2022%22%20OR%20%22Winterschool2022%22)%20AND%20(%22nfdi4biodiversity%22%20OR%20%22NFDI4Biodiversity%22))).
 
 ## Course concept
 
-The course concept was published on Zenodo:
+The course concept is available on Zenodo:
 
 * Röder, J., Fischer, M., Tschink, D., & Brand, O. (2023). Template for the NFDI4Biodiversity & GfÖ Winter School. Zenodo, 20. https://doi.org/10.5281/zenodo.8221510
 
